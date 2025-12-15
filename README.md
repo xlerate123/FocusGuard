@@ -14,7 +14,7 @@ A lightweight, privacy‑first web app that uses your webcam to detect attention
 ```bash
 # Clone the repo (if not already local)
 git clone <repo-url>
-cd moodify
+cd FocusGuard
 
 # Install dependencies
 npm install
